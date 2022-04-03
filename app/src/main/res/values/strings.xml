@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyWeatherApp</string>
+    <string name="logo">Weather in city</string>
+    <string name="hintCityField">Enter location</string>
+    <string name="main_btn">Get the weather</string>
+    <string name="no_location">Please set the location</string>
 </resources>
